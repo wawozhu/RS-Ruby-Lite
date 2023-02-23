@@ -1,0 +1,2 @@
+rslidar_sdk
+-DCATKIN_DEVEL_PREFIX=/home/xiangdong/rslidar_ws/devel -DCMAKE_INSTALL_PREFIX=/home/xiangdong/rslidar_ws/install -G Unix Makefiles
